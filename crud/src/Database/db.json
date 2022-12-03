@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Galletas",
+    "precio": 990,
+    "cantidad": 2
+  },
+  {
+    "id": 2,
+    "nombre": "Pack tallarines",
+    "precio": 3705,
+    "cantidad": 4
+  },
+  {
+    "id": 3,
+    "nombre": "Bebida Fanta 1 litro",
+    "precio": 1810,
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Arroz blanco 1kg",
+    "precio": 1070,
+    "cantidad": 4
+  },
+  {
+    "id": 5,
+    "nombre": "Pack Latas pepsi",
+    "precio": 4690,
+    "cantidad": 2
+  },
+  {
+    "id": 6,
+    "nombre": "Helado chocolate suizo y frutos del bosque 2.5 L",
+    "precio": 4290,
+    "cantidad": 1
+  }
+]
